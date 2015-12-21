@@ -1,4 +1,4 @@
-package com.features.java8.helper;
+package com.features.java8.helper.collections;
 
 import java.util.ArrayList;
 import java.util.List;
