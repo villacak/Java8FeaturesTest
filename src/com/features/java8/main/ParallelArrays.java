@@ -1,6 +1,6 @@
 package com.features.java8.main;
 
-import com.features.java8.helper.CollectionsHelper;
+import com.features.java8.helper.collections.CollectionsHelper;
 
 import java.util.Arrays;
 import java.util.Collections;
